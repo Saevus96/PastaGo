@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760917316083",
+    "project_id": "pastagoapp",
+    "storage_bucket": "pastagoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760917316083:android:488c695927e16ced7f0286",
+        "android_client_info": {
+          "package_name": "pl.kpchl.pastagoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760917316083-hs26cava8tdvkg4fihsrulegipnq3m5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.kpchl.pastagoapp",
+            "certificate_hash": "e6a8baaebd653e3acd2c816c6f897a832a041a14"
+          }
+        },
+        {
+          "client_id": "760917316083-4lrvo5u3rd0gjop8mjhbee6lrln2fju4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-esuIpAY1ONShjAw1-U2NI99kFh53Yuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760917316083-4lrvo5u3rd0gjop8mjhbee6lrln2fju4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
